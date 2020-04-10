@@ -19,3 +19,4 @@ dependencies:
 - pyproj==2.6.0
 - scikit-learn
 - xgboost
+- parfit
