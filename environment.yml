@@ -17,6 +17,5 @@ dependencies:
 - geopandas==0.7.0
 - shapely==1.7.0
 - pyproj==2.6.0
-- sklearn==0.22.*
-- parfit
+- sklearn
 - xgboost
